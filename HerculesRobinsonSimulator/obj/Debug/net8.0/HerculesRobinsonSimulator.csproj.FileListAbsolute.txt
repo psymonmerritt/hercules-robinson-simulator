@@ -1,0 +1,15 @@
+/workspaces/hercules-robinson-simulator/HerculesRobinsonSimulator/bin/Debug/net8.0/HerculesRobinsonSimulator
+/workspaces/hercules-robinson-simulator/HerculesRobinsonSimulator/bin/Debug/net8.0/HerculesRobinsonSimulator.deps.json
+/workspaces/hercules-robinson-simulator/HerculesRobinsonSimulator/bin/Debug/net8.0/HerculesRobinsonSimulator.runtimeconfig.json
+/workspaces/hercules-robinson-simulator/HerculesRobinsonSimulator/bin/Debug/net8.0/HerculesRobinsonSimulator.dll
+/workspaces/hercules-robinson-simulator/HerculesRobinsonSimulator/bin/Debug/net8.0/HerculesRobinsonSimulator.pdb
+/workspaces/hercules-robinson-simulator/HerculesRobinsonSimulator/obj/Debug/net8.0/HerculesRobinsonSimulator.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/hercules-robinson-simulator/HerculesRobinsonSimulator/obj/Debug/net8.0/HerculesRobinsonSimulator.AssemblyInfoInputs.cache
+/workspaces/hercules-robinson-simulator/HerculesRobinsonSimulator/obj/Debug/net8.0/HerculesRobinsonSimulator.AssemblyInfo.cs
+/workspaces/hercules-robinson-simulator/HerculesRobinsonSimulator/obj/Debug/net8.0/HerculesRobinsonSimulator.csproj.CoreCompileInputs.cache
+/workspaces/hercules-robinson-simulator/HerculesRobinsonSimulator/obj/Debug/net8.0/HerculesRobinsonSimulator.sourcelink.json
+/workspaces/hercules-robinson-simulator/HerculesRobinsonSimulator/obj/Debug/net8.0/HerculesRobinsonSimulator.dll
+/workspaces/hercules-robinson-simulator/HerculesRobinsonSimulator/obj/Debug/net8.0/refint/HerculesRobinsonSimulator.dll
+/workspaces/hercules-robinson-simulator/HerculesRobinsonSimulator/obj/Debug/net8.0/HerculesRobinsonSimulator.pdb
+/workspaces/hercules-robinson-simulator/HerculesRobinsonSimulator/obj/Debug/net8.0/HerculesRobinsonSimulator.genruntimeconfig.cache
+/workspaces/hercules-robinson-simulator/HerculesRobinsonSimulator/obj/Debug/net8.0/ref/HerculesRobinsonSimulator.dll
