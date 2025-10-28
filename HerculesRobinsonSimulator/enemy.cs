@@ -1,11 +1,23 @@
 class Enemy
 {
     readonly string[] dmgType = ["BxC", "AxC", "AxB"];
-    public static Hercobin? fightingParty;
+    static public Hercobin? fightingParty;
     public string battleMessage;
     Random random = new();
-    public Enemy(int hp, string name, string icon)
+    //bs
+    static public int hpmult = 1;
+    //bs
+    public Enemy(int health, string nom, string icon)
     {
+        //bs
+        string name = nom;
+        //bs
+        if (string.Equals(fightingParty.name, "Abacus"))
+        {
+            name = "Fucking Evil " + nom;
+        }
+        //bs
+        int hp = health * hpmult;
         battleMessage = name + " charges into battle!";
         int resistance = random.Next(0, 3);
         int totalHP = hp;
