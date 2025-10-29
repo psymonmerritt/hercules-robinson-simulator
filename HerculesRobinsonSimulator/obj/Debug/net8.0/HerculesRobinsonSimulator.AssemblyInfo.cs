@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HerculesRobinsonSimulator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a81972f63e194d57e9186458d8dee1542b324e8c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e743e6c6433a68e1c3416a5e64a00a370a32fb5c")]
 [assembly: System.Reflection.AssemblyProductAttribute("HerculesRobinsonSimulator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HerculesRobinsonSimulator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,23 @@
+Instructions:
+When prompted, write a response.
+When you are given a list of choices like (dog, cat, horse) those are your options.
+When you see a ➡️ , press enter to continue.
+Don't have fun.
+You are a being of 
+great power, 
+restrained by your complete inability to interact with the world, except through a tiny, insignificant creature known as a Hercobin.
+Give your Hercobin a name.
+Its name has been chosen as 
+Now, you must select its A, B, and C values. They must total to 7.
+Finally, select the number of the icon that best represents your character.
+Are you satisfied with your character?
+That name is a bit short...
+That name is a bit long...
+Select a
+value from 1 to 5.
+All values must be 1 at minimum.
+Values must add up to
+Value must be from 1 to 5.
+Select a number representing an icon.
+Pick a path.
+You can also perform listed actions with their first letter. For (dog, cat, horse), "d" would activate "dog", and so on.

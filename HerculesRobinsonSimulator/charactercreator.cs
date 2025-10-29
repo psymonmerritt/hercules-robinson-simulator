@@ -7,11 +7,11 @@ class NameAndStatSelector(int total, int remaining)
         {
             if (characterName.Length < 3)
             {
-                Console.WriteLine("That name is a bit short...");
+                Console.WriteLine(T.txt[14]);
             }
             else
             {
-                Console.WriteLine("That name is a bit long...");
+                Console.WriteLine(T.txt[15]);
             }
             characterName = Console.ReadLine();
         }
@@ -19,18 +19,18 @@ class NameAndStatSelector(int total, int remaining)
     }
     public int SelectStats(string statID, int valueFinality)
     {
-        Console.WriteLine("\nSelect " + statID + " value from 1 to 5.");
+        Console.WriteLine($"\n{T.txt[16]} {statID} {T.txt[17]}");
         while (true)
         {
             if (int.TryParse(Console.ReadLine(), out int selectedValue) && selectedValue >= 1 && selectedValue <= 5)
             {
                 if (remaining - selectedValue == 0 && valueFinality == 0)
                 {
-                    Console.WriteLine("All values must be 1 at minimum.");
+                    Console.WriteLine(T.txt[18]);
                 }
                 else if (remaining - selectedValue < 0 || (valueFinality == 1 && remaining - selectedValue != 0))
                 {
-                    Console.WriteLine("Values must add up to " + total + ".");
+                    Console.WriteLine($"{T.txt[19]} {total}.");
                 }
                 else
                 {
@@ -40,7 +40,7 @@ class NameAndStatSelector(int total, int remaining)
             }
             else
             {
-                Console.WriteLine("Value must be from 1 to 5.");
+                Console.WriteLine(T.txt[20]);
             }
         }
     }
@@ -53,7 +53,7 @@ class NameAndStatSelector(int total, int remaining)
         int selectedIconNumber;
         for(;!int.TryParse(Console.ReadLine(), out selectedIconNumber) || selectedIconNumber > iconSelection.Length || selectedIconNumber < 1;)
         {
-            Console.WriteLine("Select a number representing an icon.");
+            Console.WriteLine(T.txt[21]);
         }
         return iconSelection[selectedIconNumber-1];
     }

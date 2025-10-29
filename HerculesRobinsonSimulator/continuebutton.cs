@@ -1,8 +1,8 @@
 class Continue
 {
-    static public void Cont()
+    static public void ContCheck()
     {
         Console.Write("➡️ ");
-        while (Console.ReadKey().Key != ConsoleKey.Enter) { }
+        while (Console.ReadKey(true).Key != ConsoleKey.Enter) { }
     }
 }

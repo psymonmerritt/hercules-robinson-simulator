@@ -1,27 +1,26 @@
 ﻿Console.Clear();
-Console.WriteLine("Hercules Robinson Simulator v0.0.0.0.1 Alpha Beta Omega Test Build");
+T.GatherText();
+Console.WriteLine("Hercules Robinson Simulator Pre-Alpha 2");
 Console.ForegroundColor = ConsoleColor.Gray;
-Console.WriteLine(@"
-Instructions:
-When prompted, write a response.
-When you are given a list of choices like (choice, choice, choice) those are your options. Not caps sensitive.
-When you see a ➡️ , press enter to continue.
-Don't have fun.
-");
+Console.WriteLine($"\n{T.txt[1]}\n{T.txt[2]}\n{T.txt[3]}\n{T.txt[23]}\n{T.txt[4]}\n{T.txt[5]}");
 Console.ForegroundColor = ConsoleColor.White;
-Continue.Cont();
+Continue.ContCheck();
 Console.Clear();
-Color.TextRed("You are a being of ", "great power", ", restrained by your complete inability to interact with the world, except through a tiny, insignificant creature known as a Hercobin.");
+Color.TextRed(T.txt[6],T.txt[7],T.txt[8]);
 Hercobin hcOne = new Hercobin();
 Enemy.fightingParty = hcOne;
-new Enemy(10, "Flea", "🦟");
-new Enemy(20, "Lizard", "🦎");
-new Enemy(30, "Frog", "🐸");
-new Enemy(40, "Sky borg", "🦤 ");
 Console.Clear();
-Console.WriteLine("Congratulations! 🎉\nName yourself Abacus for a surprise!");
-//bs
-if (string.Equals(hcOne.name, "Abacus"))
+Console.WriteLine(T.txt[22]);
+switch (Decision.Choice(["town", "field"]))
 {
-    Console.WriteLine("Oh wait, you already did. Here's your reward!\nhttps://imgur.com/a/7CFpMci");
+    case 1:
+        break;
+    case 2:
+        Enemy.NewEnemy(10, "Flea", "🦟");
+        Enemy.NewEnemy(20, "Lizard", "🦎");
+        Enemy.NewEnemy(30, "Frog", "🐸");
+        Enemy.NewEnemy(40, "Sky borg", "🦤 ");
+        break;
 }
+Console.Clear();
+Console.WriteLine("Congratulations! 🎉");

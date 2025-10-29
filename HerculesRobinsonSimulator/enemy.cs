@@ -1,26 +1,16 @@
-class Enemy
+static class Enemy
 {
-    readonly string[] dmgType = ["BxC", "AxC", "AxB"];
+    static readonly string[] dmgType = ["BxC", "AxC", "AxB"];
     static public Hercobin? fightingParty;
-    public string battleMessage;
-    Random random = new();
+    static string? battleMessage;
+    static Random random = new();
     //bs
-    static public int hpmult = 1;
-    //bs
-    public Enemy(int health, string nom, string icon)
+    public static void NewEnemy(int hp, string name, string icon)
     {
-        //bs
-        string name = nom;
-        //bs
-        if (string.Equals(fightingParty.name, "Abacus"))
-        {
-            name = "Fucking Evil " + nom;
-        }
-        //bs
-        int hp = health * hpmult;
-        battleMessage = name + " charges into battle!";
-        int resistance = random.Next(0, 3);
         int totalHP = hp;
+        int resistance = random.Next(0, 3);
+        string battleDisplay = $"{icon}{name} [♥️ {hp}/{totalHP}]\n\n{fightingParty.icon}{fightingParty.name} [💚{fightingParty.abcStats[0]}/{fightingParty.abcStats[0]}]";
+        battleMessage = name + " charges into battle!";
         while (hp > 0)
         {
             Console.Clear();
@@ -34,11 +24,11 @@ class Enemy
             }
         }
         Console.Clear();
-        Console.WriteLine($"{icon}{name} [♥️ 0/{totalHP}]\n\n{fightingParty.icon}{fightingParty.name} [💚{fightingParty.abcStats[0]}/{fightingParty.abcStats[0]}]");
+        Console.WriteLine($"{icon}{name} [☠️ 10/{totalHP}]\n\n{fightingParty.icon}{fightingParty.name} [💚{fightingParty.abcStats[0]}/{fightingParty.abcStats[0]}]");
         Console.WriteLine($"{battleMessage}\n{name} has been defeated.");
-        Continue.Cont();
+        Continue.ContCheck();
     }
-    int Attack(int hp, int res, string name)
+    static int Attack(int hp, int res, string name)
     {
         int dmg = fightingParty.abcStats[0] * fightingParty.abcStats[1] * fightingParty.abcStats[2] / fightingParty.abcStats[res] * random.Next(75,131) / 100;
         string mortality = "";
