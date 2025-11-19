@@ -3,9 +3,11 @@ class Decision
     public static int Choice(string[] options)
     {
         List<string> afterFirst = new();
+        List<char> optionLetters = new();
         foreach (string option in options)
         {
             afterFirst.Add(option);
+            optionLetters.Add(option[0]);
         }
         afterFirst.RemoveAt(0);
         while (true)
@@ -14,29 +16,28 @@ class Decision
             foreach (string aFOption in afterFirst)
             {
                 Console.Write(", " + aFOption);
+
             }
             Console.WriteLine(")");
-            int selectionPosition = Array.IndexOf(options, Console.ReadLine().ToLower());
-            if(selectionPosition >= 0)
+            string input = Console.ReadLine().ToLower();
+            int selectionLetterPosition = -1;
+            if (input.Length == 1)
+            {
+                selectionLetterPosition = optionLetters.IndexOf(input[0]);
+            }
+            int selectionPosition = Array.IndexOf(options, input);
+            if (selectionPosition >= 0)
             {
                 return selectionPosition + 1;
+            }
+            if(selectionLetterPosition >= 0)
+            {
+                return selectionLetterPosition + 1;
             }
         }
     }
     public static bool YesNo()
     {
-        while (true)
-        {
-            Console.WriteLine("(yes, no)");
-            string answer = Console.ReadLine().ToLower();
-            if (answer == "no")
-            {
-                return false;
-            }
-            else if (answer == "yes")
-            {
-                return true;
-            }
-        }
+        return Convert.ToBoolean(2 - Choice(["yes", "no"]));
     }
 }

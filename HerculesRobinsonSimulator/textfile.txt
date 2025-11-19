@@ -1,23 +1,159 @@
 Instructions:
 When prompted, write a response.
 When you are given a list of choices like (dog, cat, horse) those are your options.
-When you see a ➡️ , press enter to continue.
-Don't have fun.
-You are a being of 
-great power, 
-restrained by your complete inability to interact with the world, except through a tiny, insignificant creature known as a Hercobin.
-Give your Hercobin a name.
-Its name has been chosen as 
-Now, you must select its A, B, and C values. They must total to 7.
-Finally, select the number of the icon that best represents your character.
-Are you satisfied with your character?
+You can also perform listed actions with their first letter. For (dog, cat, horse), "d" would activate "dog", and so on.
+When you see a 💬, press enter to continue.
+Sometimes inputs have secret choices that aren't listed... but there'll always be a way to find out about them.
+It's been 9 years since Hercules Robinson's near fatal chemistry accident in Golden, Colorado.
+It all began after he quit his studies at the School of Mines, taking with him millions of dollars worth of chemistry equipment.
+He had previously grown accustomed to taking simple things, like test tubes, from his chemistry labs.
+One day, growing sick of the monotonous classwork that consumed his life, he began to take more and more.
+Flasks, chemicals, beakers, and even the safety shower. Soon, nothing was safe.
+He knew he couldn't get away with it for long, so he decided to end his habit and finish his time at the university with a grand heist.
+Coming in with a giant bulldozer, he ransacked everything related to chemistry at the school, and when he returned home, nearly all the rooms were filled.
+He spent his next few months in boredom, isolated with only his dog Togo and his enormous stockpile of equipment, knowing he could never go back into town.
+All was stagnant, until one day... he had a breakthrough.
+After much experimenting, he had discovered a way to repair the universe's charge conjugation symmetry within a space, allowing him to manifest infinite antiparticles.
+He began testing immediately, creating all kinds of antimatter. One day, he decided to try reaching his hand into a flask of antiwater...
+"Yeowch!"
+Rather than any painful sensation, or really any sensation at all... he felt something within his brain. Perhaps something within his soul.
+After pulling his hand out, he peered inside the flask... an imprint of his hand was left within the strange fluid!
+It moved around, just like his own hand, appearing to feel some kind of sensation itself... and then dissipated into the fluid.
+"How exciting", he said to himself. It was time for him to finish his work for the night, as he was well beyond tired.
+He would've placed the flask on the table, but there was a fresh coat of antipaint from a few hours earlier...
+He decided to set it on the old birdhouse he built. He had always been fond of woodworking, but the birdhouse seemed to have little use after birds were proven to be fake.
+Hercules went to bed, expecting a regular sleep through the night, when...
+BOOM!
+He ran downstairs, witnessing his worst nightmare... The flask had burst, and the antimatter was leaking into the birdhouse.
+This could only mean one thing: according to the Rolph theorem, the highly reactive antimatter contained within the small birdhouse would create some kind of-
+It was too late before he could take a second glance. The birdhouse imploded, leaving nothing remaining in the place it had previously been.
+The ground began to shake beneath him, and a shockwave of dark energy rang out for miles.
+He looked outside... it was past midnight, but there was chaos in the distant streets immediately. People began to flee the town as windows broke and cracks opened in the ground.
+Somehow, his house remained undamaged.
+"How exciting." His hands trembled in fear at what he had created, but he had no words to describe it even to himself.
+He returned upstairs to sleep. His dog Togo appeared to be in distress, but with the Auto Feeder and Drinker 3000, he would be alright by himself for the night.
+The next morning, he woke up to knocking at his door. It was likely the government, or worse...
+But to his surprise, it was his neighbor Lewis.
+Hercules and his dog lived alone in a small house on a mountain, a few miles from the town with an overhead view. But oddly enough, not far from him was a neighbor who seemed to share his preference of quiet, spacious land to live on.
+With his house a few hundred feet from Hercules, Lewis was an unpleasant neighbor. He frequently annoyed Hercules with demands and requests, and never gave a particularly friendly impression.
+"Do you plan to clean the lawn at some point? Your leaves are blowing over to my yard. And will you tell that damned dog to stop barking?"
+Lewis picked the wrong day to bitch about leaves.
+Hercules slapped the fuck out of Lewis.
+"Why, you! People your age have no manners. Too lazy to even do a small favor and I do so much work for this-"
+He shut the door and went back upstairs. As we went back to his room, he glanced out the window.
+Every car was gone. The streets were desolate and empty as far back as he could see, and many houses were left as nothing but ruins.
+What had really happened? What did all this mean? He didn't know, and he didn't feel motivated to try and find out. He had killed thousands of people without thinking.
+And so, he laid in his bed. He laid for hours.
+Hours turned to days, days turned to months, and months turned to years...
+Almost a decade had passed. He hadn't moved an inch. The "immortality injection" he created had worked, for better or for worse. he didn't even know what the world looked like anymore.
+And so, regaining consciousness, he rose from his bed. It was time to finally confront the world ahead of him.
+A strange, twisted, radical world... This is the story of Hercules Robinson!
+You're in your bedroom. Your door creaks open as you peer out into the stairwell... You aren't exactly eager to get out. What should you do?
+ERROR ROOM, PLEASE CLOSE GAME
+The upper floor just has your bedroom and bathroom. Every corner is covered with dust and cobwebs, and you feel an eerie sense that you aren't alone.
+Introduction?
+There's nothing here.
+You look around. In the corner, you see something buried in a pile of laundry...
+You got the
+The bathroom is in poor condition. There are mushrooms growing out of the toilet, and some kind of squishing sound is coming from behind the shower curtain. You're scared to look...
+You gently open the shower curtain. Oh shit! inside the shower is... an entire family of frogs!
+Select your stats. You possess Vitality, Calculality, and Divinity; they must total to 7. Choose wisely.
+Value must be from
+Values must total to
+All values must be a minimum of 1.
 That name is a bit short...
 That name is a bit long...
-Select a
-value from 1 to 5.
-All values must be 1 at minimum.
-Values must add up to
-Value must be from 1 to 5.
-Select a number representing an icon.
-Pick a path.
-You can also perform listed actions with their first letter. For (dog, cat, horse), "d" would activate "dog", and so on.
+Finally, what name fits your character?
+Select the number of an icon to represent your character.
+That's a nice name, but... this is the story of HERCULES!!!
+The path of history is seldom altered by those watching from the sidelines.
+Now, begin your journey, and good luck.
+lunged at you with abyssal strength
+bit you
+threw a bony punch at you
+hopped around with its tongue out
+clawed at you
+You died.
+Better luck next time... stay determined!
+The stairs creak beneath your footsteps. It's like you were just here yesterday, yet everything about the house feels... eerie and old.
+The front door is just across the hall. The whole bottom floor is cold and dirty, and there are an uncomfortable amount of bugs coming from a giant hole in the wall.
+Wait, what's that!? A flea buzzes its way into you! Not a giant flea or anything, it's just really angry.
+Light shines through the edges of the front door. Oddly enough, the main room feels... less abandoned. It's almost as if someone has been coming here.
+The current moon phase is:
+The current weather is:
+This just in:
+Aliens have visited Earth! They killed the coach for Manchester United then left.
+Paul McCartney's lookalike has admitted the real Paul is alive in Cheyenne Mountain!
+Forecasts project a meteor shower is going to hit Delaware. All 15 citizens are currently evacuating.
+Abyss squirrels are being forced to use separate drinking ponds.
+The government of Abyssrael is being accused of attempting genocide on the Abysstinians!
+They combined bread, cheese, tomato sauce, and 4Chan. We call it the NEETza.
+Gnarly Murk shot in the neck this Wednesday. His final words - "Counting or not counting abyss violence?"
+Dallas Cowboy Michael Irvin was indicted on two counts of drug possession Monday.
+Infamous aquatic species "Actinernus nobilis" accused of being... well, you can guess.
+Text.ExceptionError(null) - "Diddy blud" found in SIBERIA!!!
+1. Do you think the end of the world is coming? [Blaise Bailey Finnegan III]
+2. No. So says the preacher man, but I don't go by what he says.
+Abyss president sets a tariff, taxing all imports and inciting significant controversy!
+Quillionare Mark Zuckerbyss released his new app today - "King Crimson Album 3 Chat".
+New "meme" number 2.71828 is driving teachers and parents crazy!
+It's your turn.
+I'm hungry...
+Beep beep!
+En garde!
+Your shoes are untied. :(
+This enemy is NOT crackable!
+The current date is probably not:
+Crime report:
+As you walk into the main area, you notice something... Togo isn't in his usual spot.
+He's been by your side for decades now. You gave him the immortality injection as well, so he should be just fine for even another hundred years.
+But... why is he missing? The Auto Feeder and Drinker 3000 seems to be in working condition, and he had no health issues.
+You should see if you can find him.
+You call out for him, but he doesn't come. You search everywhere, but every trace of him has vanished.
+If something happened to him... no, you don't even want to think about that.
+You have to find him soon. What if you left him alone too long? Anything could've happened.
+You stop panicking and collect yourself. There is no time to waste. It's time to go out into the world.
+The kitchen is just as you'd expect. The water tastes like rust, and the food probably isn't edible.
+Looks like the last thing you left in here was a... burger? At least, that's what the shape implies. It's literally a ball of mold. Are you actually taking this?
+I don't know what you'd do with this, but now you can have mold wherever you go.
+Yeah I wouldn't take that shit either bruh.
+The fridge is empty.
+Just your usual old room. You're a bit sick of it by now.
+There's a hole several feet wide in the wall next to your staircase with hundreds, maybe thousands of bugs crawling out.
+Stepping a little closer, you can hear loud buzzing sounds coming from inside. Unfortunately, it looks like you can fit in the hole. Crawl inside?
+The hole leads to a huge cave that reaches back into the mountain you live next to. This was probably a mistake.
+bites you with its venomous fangs
+🦟Flee: It is I, Flee the Flea! I am one of three brothers, all with great power. I am the second strongest among these brothers, and I will ensure you step no further!
+🕷️Fleagh: It is I, Fleagh the Spider. I am one of three highly powerful brothers, and of them, I possess the middle strength. You'll find it hard to defeat me!
+🦟Flii: I am Flii the Flea! Prepare yourself for my challenge, beast. Out of my three brothers, I am neither the strongest brother nor the third strongest.
+🦟Flee: You have bested me, being of great size. For this, I will give you some information to assist you on your journey. 
+🦟Flee: It seems that your character possesses 3 unique values that determine your interactions with our strange world... They are known as Vitality, Calculality, and Divinity. These values have multiple effects, the most important being that they determine your strength in combat.
+🦟Flee: If you are to face an enemy in battle, that enemy will be resistant to one of the three statistics. This will be indicated when you strike them; for example, if they take "Divine" damage, that means they are resistant to Divinity, and your effectiveness in attacking them will be determined by the product of your Vitality and Calculality.
+🦟Flee: Isn't that strange? Is "calculality" even a real word? Anyways, I'm outta here!
+🕷️Fleagh:
+9 years ago, a strange source of chaotic energy appeared throughout the lands of Golden. It is unable to be observed through physical means, but it had drastic effects on all life in the area.
+Blades of grass grew teeth, trees began roaring in pain, and all wildlife began to perceive the world through the lens of darkness. Many call it the Abyss, and its form takes different shapes in many creatures.
+Those who were infected with the "Abyss" grew to an unseen level of sentience. Mammals, reptiles, birds; they all could communicate with one another, as well as with the bugs and plants that go unnoticed in the cycle of nature. 
+We began to understand that this creates disarray amongst the lesser beings that are destined to be consumed; creatures incapable of independence sought to be released from the hierarchies they previously abided by without question.
+This did not bode well for many. Structure was necessary for survival, and thus, many decided that delinquents were to be exiled or killed. This brought an unforeseen consequence of the Abyss to light - it does not exist as a part of the mind, but rather as a sort of "soul". Death did not extinguish the flame that existed within those animals; rather, it would linger without purpose until repossessed by another being.
+The walls that held nature together began crumbling only days after the Abyss spread. Entire populations were slaughtered as the most merciless creatures grew their strength tenfold every waking hour.
+Over time, it came to be understood that the Abyss was not a sort of stable resource to be maintained; its greatest possessors would begin to gain too much awareness, and see terrible things that made them tear themselves apart.
+Us bugs fled the danger of Golden to reside in this mountainside cave. We are forbidden to consume the Darkness from others; anyone to do so will be fed to the King. He lies at the furthest edge of this cave, wallowing in despair from his gargantuan size after taking millions of souls.
+It would be foolish to challenge him... Even we citizens have begun to fear him. He punishes without reason, and has no mercy for even his greatest soldiers.
+attempts to seduce you. Yo what the fuck!!???
+does a backflip. That's awesome
+prepares a comedy sketch!
+killed Paul in 1966.
+keys your car. WTF!
+plays a warmup song - "Cloud Mind"!
+plays a game of Balatro mid-battle. Can we focus please?
+'s tragedy began on the day of their actual birth. Both of their parents failed to show up.
+'s shoes are untied.
+thinks Paul is still alive. Fake fucking fan
+stands their ground.
+🟪🧩[1]: E t r “ h t u   s y u   a e f r a s r r s   )
+🟪🧩[2]: The first piece possesses the first glyph. The last piece shall fit right into place.
+🟪🧩[3]:  n e   K a r “ a   o r n m   o     u p i e :
+wants to take a nap. No offense.
+You take a sip from your trusty Vault 13 canteen.
+You've met with a terrible fate, haven't you?

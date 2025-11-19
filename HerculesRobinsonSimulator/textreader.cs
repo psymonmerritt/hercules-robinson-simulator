@@ -13,4 +13,12 @@ static class T
             txt.Add(txtcollect);
         }
     }
+    static public void Dialogue(int start, int end)
+    {
+        for (int dstart = start; dstart < end + 1; dstart++)
+        {
+            Console.WriteLine(T.txt[dstart]);
+        }
+        Continue.ContCheck();
+    }
 }

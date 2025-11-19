@@ -2,7 +2,8 @@ class Continue
 {
     static public void ContCheck()
     {
-        Console.Write("➡️ ");
+        Console.Write("💬");
         while (Console.ReadKey(true).Key != ConsoleKey.Enter) { }
+        Console.WriteLine();
     }
 }
